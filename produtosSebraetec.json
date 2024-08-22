@@ -1,11 +1,13 @@
 [
     {
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png",
-      "nome": "Smartphone XYZ",
-      "descricao": "Celular de última geração",
-      "valorSemDesconto": 1200.00,
-      "valorComDesconto": 999.99,
-      "tipoEntrega": "Frete GRÁTIS"
+      "linkFicha": "",
+      "nome": "SEBRAETEC - CONSULTORIA TECNOLÓGICA 4H - PRESENCIAL",
+      "descricao": "Sebraetec Senai - Framework OKR para otimização de processos",
+      "codigoRae": 4727,
+      "codigoRm": 42567,
+      "valorSTecSenai": 770.00,
+      "tipoEntrega": "ME / EPP",
+      "cargaHoraria": 4
     },
     {
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png",
@@ -72,3 +74,6 @@
       "tipoEntrega": "RECEBA HOJE"
     }
 ]
+
+
+
