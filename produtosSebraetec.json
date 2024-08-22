@@ -1,6 +1,7 @@
 [
     {
-      "linkFicha": "",
+      "linkFicha": "https://datasebrae.com.br/wp-content/uploads/2020/09/Framework-OKR-para-Otimizac%CC%A7a%CC%83o-de-Processos-MMP14065-1.pdf",
+      "tagLink": "Link - OKR",
       "familia": "SEBRAETEC - CONSULTORIA TECNOLÓGICA 4H - PRESENCIAL",
       "titulo": "Sebraetec Senai - Framework OKR para otimização de processos",
       "codigoRae": 4727,
@@ -10,7 +11,8 @@
       "cargaHoraria": 4
     },
     {
-      "linkFicha": "",
+      "linkFicha": "https://datasebrae.com.br/wp-content/uploads/2020/04/Consultoria-para-Growth-Hacking-TD46010-2.pdf",
+      "tagLink": "Link - Growth Hacking",
       "familia": "SEBRAETEC - CONSULTORIA TECNOLÓGICA 30H - PRESENCIAL",
       "titulo": "Sebraetec Senai - Consultoria para Growth Hacking",
       "codigoRae": 4717,
@@ -20,7 +22,8 @@
       "cargaHoraria": 4
     },
     {
-      "linkFicha": "",
+      "linkFicha": "https://datasebrae.com.br/wp-content/uploads/2021/11/Implanta%C3%A7%C3%A3o-de-Requisitos-de-Qualidade-Meio-Ambiente-e-Sa%C3%BAde-e-Seguran%C3%A7a-no-Trabalho-Efici%C3%AAncia-Operacional-Efici%C3%AAncia-Energ%C3%A9tica-e-Compliance-para-Fornecedores-GQ13033-4.pdfhttps://datasebrae.com.br/wp-content/uploads/2021/11/Implanta%C3%A7%C3%A3o-de-Requisitos-de-Qualidade-Meio-Ambiente-e-Sa%C3%BAde-e-Seguran%C3%A7a-no-Trabalho-Efici%C3%AAncia-Operacional-Efici%C3%AAncia-Energ%C3%A9tica-e-Compliance-para-Fornecedores-GQ13033-4.pdf",
+      "tagLink": "Link - Requisitos de Qualidade e Eficiência Energética",
       "familia": "SEBRAETEC - CONSULTORIA TECNOLÓGICA 40H - PRESENCIAL",
       "titulo": "Sebraetec Senai - Implantação de Requisitos de Qualidade, Meio Ambiente, Saúde e Segurança no Trabalho, Eficiência Operacional, Eficiência Energética e Compliance para Fornecedores",
       "codigoRae": 4720,
@@ -30,7 +33,8 @@
       "cargaHoraria": 4
     },
     {
-      "linkFicha": "",
+      "linkFicha": "https://datasebrae.com.br/wp-content/uploads/2021/09/Modelagem-e-Graduac%CC%A7a%CC%83o-para-Vestua%CC%81rio-MMP14039-4.pdf",
+      "tagLink": "Link - Modelagem e Graduação para Vestuário",
       "familia": "SEBRAETEC - CONSULTORIA TECNOLÓGICA 40H - PRESENCIAL",
       "titulo": "Sebraetec Senai - Modelagem e Graduação para Vestuário",
       "codigoRae": 4733,
@@ -40,7 +44,8 @@
       "cargaHoraria": 4
     },
     {
-      "linkFicha": "",
+      "linkFicha": "https://datasebrae.com.br/wp-content/uploads/2021/10/Modelagem-Encaixe-e-Plotagem-DP23004-3.pdf",
+      "tagLink": "Link - Modelagem, Encaixe e Plotagem",
       "familia": "SEBRAETEC - CONSULTORIA TECNOLÓGICA 40H - PRESENCIAL",
       "titulo": "Sebraetec Senai - Modelagem, encaixe e plotagem",
       "codigoRae": 4736,
@@ -50,7 +55,8 @@
       "cargaHoraria": 4
     },
     {
-      "linkFicha": "",
+      "linkFicha": "https://datasebrae.com.br/wp-content/uploads/2020/12/Melhoria-da-Efici%C3%AAncia-Energ%C3%A9tica-e-fontes-de-energia-alternativas-EE32005-3.pdf",
+      "tagLink": "Link - Eficiência Energética",
       "familia": "SEBRAETEC - CONSULTORIA TECNOLÓGICA 40H - PRESENCIAL",
       "titulo": "Sebraetec Senai - Melhoria da eficiência energética e fontes de energia alternativa",
       "codigoRae": 4745,
@@ -60,7 +66,8 @@
       "cargaHoraria": 4
     },
     {
-      "linkFicha": "",
+      "linkFicha": "https://datasebrae.com.br/wp-content/uploads/2020/04/Consultoria-para-cria%C3%A7%C3%A3o-de-BIM-Mandate-e-Plano-de-Implanta%C3%A7%C3%A3o-MMP14047-2.pdf",
+      "tagLink": "Link - BIM Mandate",
       "familia": "SEBRAETEC - CONSULTORIA TECNOLÓGICA 40H - PRESENCIAL",
       "titulo": "Sebraetec Senai - Consultoria para criação de BIM Mandate e Plano de Implantação do processo de modelagem da informação para o setor de construção civil (BIM)",
       "codigoRae": 4716,
@@ -71,6 +78,7 @@
     },
     {
       "linkFicha": "",
+      "tagLink": "Link - OKR",
       "familia": "SEBRAETEC - CONSULTORIA TECNOLÓGICA 40H - PRESENCIAL",
       "titulo": "Sebraetec Senai - Implantação de Requisitos de Qualidade, Meio Ambiente, Saúde e Segurança no Trabalho, Eficiência Operacional, Eficiência Energética e Compliance para Fornecedores",
       "codigoRae": 4721,
@@ -81,6 +89,7 @@
     },
     {
       "linkFicha": "",
+      "tagLink": "Link - OKR",
       "familia": "SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - PRESENCIAL",
       "titulo": "Sebraetec Senai - Lean Manufacturing",
       "codigoRae": 4728,
@@ -91,6 +100,7 @@
     },
     {
       "linkFicha": "-",
+      "tagLink": "Link - ",
       "familia": "-",
       "titulo": "-",
       "codigoRae": 0,
@@ -101,6 +111,7 @@
     },
     {
       "linkFicha": "-",
+      "tagLink": "Link - ",
       "familia": "-",
       "titulo": "-",
       "codigoRae": 0,
@@ -111,6 +122,7 @@
     },
     {
       "linkFicha": "-",
+      "tagLink": "Link - OKR",
       "familia": "-",
       "titulo": "-",
       "codigoRae": 0,
@@ -121,6 +133,7 @@
     },
     {
       "linkFicha": "-",
+      "tagLink": "Link - OKR",
       "familia": "-",
       "titulo": "-",
       "codigoRae": 0,
@@ -130,7 +143,8 @@
       "cargaHoraria": 0
     },
     {
-      "linkFicha": "-",
+      "linkFicha": "https://datasebrae.com.br/wp-content/uploads/2020/04/Planejamento-Estrat%C3%A9gico-Tecnol%C3%B3gico-PT44002-2.pdf",
+      "tagLink": "Link - Planejamento Estratégico Tecnológico",
       "familia": "SEBRAETEC - CONSULTORIA TECNOLÓGICA 140H - PRESENCIAL",
       "titulo": "Sebraetec Senai - Planejamento Estratégico Tecnológico",
       "codigoRae": 4735,
