@@ -101,6 +101,16 @@
     },
     {
       "linkFicha": "-",
+      "familia": "-",
+      "titulo": "-",
+      "codigoRae": 0,
+      "codigoRm": 0,
+      "valorSTecSenai": 0 ,
+      "tipoEntrega": "-",
+      "cargaHoraria": 0
+    },
+    {
+      "linkFicha": "-",
       "familia": "SEBRAETEC - CONSULTORIA TECNOLÓGICA 140H - PRESENCIAL",
       "titulo": "Sebraetec Senai - Planejamento Estratégico Tecnológico",
       "codigoRae": 4735,
@@ -108,13 +118,5 @@
       "valorSTecSenai": 770.00,
       "tipoEntrega": "ME / EPP",
       "cargaHoraria": 4
-    },
-    {
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png",
-      "nome": "Vale presente",
-      "descricao": "Compre e faça alguém feliz",
-      "valorSemDesconto": 90.00,
-      "valorComDesconto": 65.99,
-      "tipoEntrega": "RECEBA HOJE"
     }
 ]
