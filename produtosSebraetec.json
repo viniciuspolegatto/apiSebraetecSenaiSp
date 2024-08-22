@@ -111,6 +111,26 @@
     },
     {
       "linkFicha": "-",
+      "familia": "-",
+      "titulo": "-",
+      "codigoRae": 0,
+      "codigoRm": 0,
+      "valorSTecSenai": 0 ,
+      "tipoEntrega": "-",
+      "cargaHoraria": 0
+    },
+    {
+      "linkFicha": "-",
+      "familia": "-",
+      "titulo": "-",
+      "codigoRae": 0,
+      "codigoRm": 0,
+      "valorSTecSenai": 0 ,
+      "tipoEntrega": "-",
+      "cargaHoraria": 0
+    },
+    {
+      "linkFicha": "-",
       "familia": "SEBRAETEC - CONSULTORIA TECNOLÓGICA 140H - PRESENCIAL",
       "titulo": "Sebraetec Senai - Planejamento Estratégico Tecnológico",
       "codigoRae": 4735,
