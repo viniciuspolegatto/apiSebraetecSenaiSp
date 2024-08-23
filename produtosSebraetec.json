@@ -8,7 +8,8 @@
       "codigoRm": 42567,
       "valorSTecSenai": 770.00,
       "tipoEntrega": "ME / EPP",
-      "cargaHoraria": 4
+      "cargaHoraria": 4,
+      "modalidade": "PRESENCIAL"
     },
     {
       "linkFicha": "https://datasebrae.com.br/wp-content/uploads/2020/04/Consultoria-para-Growth-Hacking-TD46010-2.pdf",
@@ -19,7 +20,8 @@
       "codigoRm": 42567,
       "valorSTecSenai": 4950.00,
       "tipoEntrega": "ME / EPP",
-      "cargaHoraria": 30
+      "cargaHoraria": 30,
+      "modalidade": "PRESENCIAL"
     },
     {
       "linkFicha": "https://datasebrae.com.br/wp-content/uploads/2021/11/Implanta%C3%A7%C3%A3o-de-Requisitos-de-Qualidade-Meio-Ambiente-e-Sa%C3%BAde-e-Seguran%C3%A7a-no-Trabalho-Efici%C3%AAncia-Operacional-Efici%C3%AAncia-Energ%C3%A9tica-e-Compliance-para-Fornecedores-GQ13033-4.pdfhttps://datasebrae.com.br/wp-content/uploads/2021/11/Implanta%C3%A7%C3%A3o-de-Requisitos-de-Qualidade-Meio-Ambiente-e-Sa%C3%BAde-e-Seguran%C3%A7a-no-Trabalho-Efici%C3%AAncia-Operacional-Efici%C3%AAncia-Energ%C3%A9tica-e-Compliance-para-Fornecedores-GQ13033-4.pdf",
@@ -30,7 +32,8 @@
       "codigoRm": 42568,
       "valorSTecSenai": 4950.00,
       "tipoEntrega": "ME",
-      "cargaHoraria": 40
+      "cargaHoraria": 40,
+      "modalidade": "PRESENCIAL"
     },
     {
       "linkFicha": "https://datasebrae.com.br/wp-content/uploads/2021/09/Modelagem-e-Graduac%CC%A7a%CC%83o-para-Vestua%CC%81rio-MMP14039-4.pdf",
@@ -41,7 +44,8 @@
       "codigoRm": 40864,
       "valorSTecSenai": 4950.00,
       "tipoEntrega": "ME / EPP",
-      "cargaHoraria": 40
+      "cargaHoraria": 40,
+      "modalidade": "PRESENCIAL"
     },
     {
       "linkFicha": "https://datasebrae.com.br/wp-content/uploads/2021/10/Modelagem-Encaixe-e-Plotagem-DP23004-3.pdf",
@@ -52,7 +56,8 @@
       "codigoRm": 40864,
       "valorSTecSenai": 4950.00,
       "tipoEntrega": "ME",
-      "cargaHoraria": 40
+      "cargaHoraria": 40,
+      "modalidade": "PRESENCIAL"
     },
     {
       "linkFicha": "https://datasebrae.com.br/wp-content/uploads/2020/12/Melhoria-da-Efici%C3%AAncia-Energ%C3%A9tica-e-fontes-de-energia-alternativas-EE32005-3.pdf",
@@ -63,7 +68,8 @@
       "codigoRm": 40864,
       "valorSTecSenai": 4950.00,
       "tipoEntrega": "ME / EPP",
-      "cargaHoraria": 40
+      "cargaHoraria": 40,
+      "modalidade": "PRESENCIAL"
     },
     {
       "linkFicha": "https://datasebrae.com.br/wp-content/uploads/2020/04/Consultoria-para-cria%C3%A7%C3%A3o-de-BIM-Mandate-e-Plano-de-Implanta%C3%A7%C3%A3o-MMP14047-2.pdf",
@@ -74,7 +80,8 @@
       "codigoRm": 40864,
       "valorSTecSenai": 9900.00,
       "tipoEntrega": "ME / EPP",
-      "cargaHoraria": 60
+      "cargaHoraria": 60,
+      "modalidade": "PRESENCIAL"
     },
     {
       "linkFicha": "",
@@ -85,7 +92,8 @@
       "codigoRm": 40864,
       "valorSTecSenai": 9900.00,
       "tipoEntrega": "EPP",
-      "cargaHoraria": 60
+      "cargaHoraria": 60,
+      "modalidade": "PRESENCIAL"
     },
     {
       "linkFicha": "",
@@ -96,7 +104,8 @@
       "codigoRm": 40865,
       "valorSTecSenai": 9900.00,
       "tipoEntrega": "ME",
-      "cargaHoraria": 60
+      "cargaHoraria": 60,
+      "modalidade": "PRESENCIAL"
     },
     {
       "linkFicha": "",
@@ -107,7 +116,8 @@
       "codigoRm": 40865,
       "valorSTecSenai": 9900.00 ,
       "tipoEntrega": "EPP",
-      "cargaHoraria": 60
+      "cargaHoraria": 60,
+      "modalidade": "PRESENCIAL"
     },
     {
       "linkFicha": "",
@@ -118,7 +128,8 @@
       "codigoRm": 40865,
       "valorSTecSenai": 0 ,
       "tipoEntrega": "ME",
-      "cargaHoraria": 60
+      "cargaHoraria": 60,
+      "modalidade": "PRESENCIAL"
     },
     {
       "linkFicha": "",
@@ -129,7 +140,8 @@
       "codigoRm": 40865,
       "valorSTecSenai": 9900 ,
       "tipoEntrega": "ME",
-      "cargaHoraria": 60
+      "cargaHoraria": 60,
+      "modalidade": "PRESENCIAL"
     },
     {
       "linkFicha": "",
@@ -140,7 +152,8 @@
       "codigoRm": 40865,
       "valorSTecSenai": 9900 ,
       "tipoEntrega": "ME",
-      "cargaHoraria": 60
+      "cargaHoraria": 60,
+      "modalidade": "PRESENCIAL"
     },
     {
       "linkFicha": "",
@@ -151,7 +164,8 @@
       "codigoRm": 40865,
       "valorSTecSenai": 9900 ,
       "tipoEntrega": "ME",
-      "cargaHoraria": 60
+      "cargaHoraria": 60,
+      "modalidade": "PRESENCIAL"
     },
     {
       "linkFicha": "",
@@ -162,7 +176,8 @@
       "codigoRm": 40865,
       "valorSTecSenai": 9900 ,
       "tipoEntrega": "ME / EPP",
-      "cargaHoraria": 60
+      "cargaHoraria": 60,
+      "modalidade": "PRESENCIAL"
     },
     {
       "linkFicha": "",
@@ -173,7 +188,8 @@
       "codigoRm": 40865,
       "valorSTecSenai": 9900 ,
       "tipoEntrega": "ME",
-      "cargaHoraria": 60
+      "cargaHoraria": 60,
+      "modalidade": "PRESENCIAL"
     },
     {
       "linkFicha": "",
@@ -184,7 +200,8 @@
       "codigoRm": 40865,
       "valorSTecSenai": 9900 ,
       "tipoEntrega": "ME",
-      "cargaHoraria": 60
+      "cargaHoraria": 60,
+      "modalidade": "PRESENCIAL"
     },
     {
       "linkFicha": "https://datasebrae.com.br/wp-content/uploads/2020/04/Planejamento-Estrat%C3%A9gico-Tecnol%C3%B3gico-PT44002-2.pdf",
@@ -195,6 +212,7 @@
       "codigoRm": 40869,
       "valorSTecSenai": 770.00,
       "tipoEntrega": "ME / EPP",
-      "cargaHoraria": 4
+      "cargaHoraria": 4,
+      "modalidade": "PRESENCIAL"
     }
 ]
