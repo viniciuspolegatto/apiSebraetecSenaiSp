@@ -167,115 +167,116 @@
 },
 {"linkFicha":"",
     "tagProduto":"Consultoria Omnichannel Para Integração dos Canais de Vendas","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 24H - REMOTO","titulo":"Sebraetec Senai - Consultoria Omnichannel Para Integração dos Canais de Vendas",
-    "codigoRae":4688,"codigoRm":40863,"valorSTecSenai":4167,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":24,"modalidade":"REMOTO"
+    "codigoRae":4688,"codigoRm":"40863-","valorSTecSenai":4167,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":24,"modalidade":"REMOTO"
 },
 {"linkFicha":"",
     "tagProduto":"Planejamento para busca orgânica","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 24H - REMOTO","titulo":"Sebraetec Senai - Planejamento para busca orgânica",
-    "codigoRae":4707,"codigoRm":40863,"valorSTecSenai":4167,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":24,"modalidade":"REMOTO"
+    "codigoRae":4707,"codigoRm":"40863-","valorSTecSenai":4167,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":24,"modalidade":"REMOTO"
 },
 {"linkFicha":"",
     "tagProduto":"Design de embalagens","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 36H - REMOTO","titulo":"Sebraetec Senai - Design de embalagens",
-    "codigoRae":4692,"codigoRm":41123,"valorSTecSenai":6251,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":36,"modalidade":"REMOTO"
+    "codigoRae":4692,"codigoRm":"40123-","valorSTecSenai":6251,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":36,"modalidade":"REMOTO"
 },
 {"linkFicha":"",
     "tagProduto":"Experiencia do usuário em ambientes digitais","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 36H - REMOTO","titulo":"Sebraetec Senai - Experiencia do usuário em ambientes digitais",
-    "codigoRae":4711,"codigoRm":40864,"valorSTecSenai":6946,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":36,"modalidade":"REMOTO"
+    "codigoRae":4711,"codigoRm":"40864-","valorSTecSenai":6946,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":36,"modalidade":"REMOTO"
 },
 {"linkFicha":"",
     "tagProduto":"Elaboração de Projeto de Inovação","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 36H - REMOTO","titulo":"Sebraetec Senai - Elaboração de Projeto de Inovação",
-    "codigoRae":5876,"codigoRm":41123,"valorSTecSenai":6251,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":36,"modalidade":"REMOTO"
+    "codigoRae":5876,"codigoRm":"41123-","valorSTecSenai":6251,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":36,"modalidade":"REMOTO"
 },
 {"linkFicha":"",
     "tagProduto":"Caderno de tendências","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 40H - REMOTO","titulo":"Sebraetec Senai - Caderno de tendências",
-    "codigoRae":4686,"codigoRm":40864,"valorSTecSenai":6946,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":40,"modalidade":"REMOTO"
+    "codigoRae":4686,"codigoRm":"40864-","valorSTecSenai":6946,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":40,"modalidade":"REMOTO"
 },
 {"linkFicha":"",
     "tagProduto":"Desenvolvimento de mídias digitais de comunicação","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 40H - REMOTO","titulo":"Sebraetec Senai - Desenvolvimento de mídias digitais de comunicação",
-    "codigoRae":4690,"codigoRm":40864,"valorSTecSenai":6946,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":40,"modalidade":"REMOTO"
+    "codigoRae":4690,"codigoRm":"40864-","valorSTecSenai":6946,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":40,"modalidade":"REMOTO"
 },
 {"linkFicha":"",
     "tagProduto":"Design de produto tridimensional","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 40H - REMOTO","titulo":"Sebraetec Senai - Design de produto tridimensional",
-    "codigoRae":4693,"codigoRm":40864,"valorSTecSenai":6946,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":40,"modalidade":"REMOTO"
+    "codigoRae":4693,"codigoRm":"40864-","valorSTecSenai":6946,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":40,"modalidade":"REMOTO"
 },
 {"linkFicha":"",
     "tagProduto":"Design de Rótulo(s) e Aplicações de elementos gráficos na embalagem","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 40H - REMOTO","titulo":"Sebraetec Senai - Design de Rótulo(s) e Aplicações de elementos gráficos na embalagem",
-    "codigoRae":4695,"codigoRm":40864,"valorSTecSenai":6946,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":40,"modalidade":"REMOTO"
+    "codigoRae":4695,"codigoRm":"40864-","valorSTecSenai":6946,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":40,"modalidade":"REMOTO"
 },
 {"linkFicha":"",
     "tagProduto":"Estudo de prospecção tecnológica","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 40H - REMOTO","titulo":"Sebraetec Senai - Estudo de prospecção tecnológica",
-    "codigoRae":4698,"codigoRm":40864,"valorSTecSenai":6946,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":40,"modalidade":"REMOTO"
+    "codigoRae":4698,"codigoRm":"40864-","valorSTecSenai":6946,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":40,"modalidade":"REMOTO"
 },
 {"linkFicha":"",
     "tagProduto":"Implantação de loja virtual","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 40H - REMOTO","titulo":"Sebraetec Senai - Implantação de loja virtual",
-    "codigoRae":4700,"codigoRm":40864,"valorSTecSenai":6946,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":40,"modalidade":"REMOTO"
+    "codigoRae":4700,"codigoRm":"40864-","valorSTecSenai":6946,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":40,"modalidade":"REMOTO"
 },
 {"linkFicha":"https://datasebrae.com.br/wp-content/uploads/2020/08/Implantac%CC%A7a%CC%83o-de-processos-de-Gesta%CC%83o-da-Inovac%CC%A7a%CC%83o-GI42001-6.pdf",
     "tagProduto":"Implantação de processos de gestão da inovação","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 40H - REMOTO","titulo":"Sebraetec Senai - Implantação de processos de gestão da inovação",
-    "codigoRae":4702,"codigoRm":40864,"valorSTecSenai":6946,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":40,"modalidade":"REMOTO"
+    "codigoRae":4702,"codigoRm":"40864-","valorSTecSenai":6946,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":40,"modalidade":"REMOTO"
 },
 {"linkFicha":"https://datasebrae.com.br/wp-content/uploads/2020/05/Planejamento-e-prepara%C3%A7%C3%A3o-para-comercializa%C3%A7%C3%A3o-em-marketplace-TD46015-1.pdf",
     "tagProduto":"Planejamento e preparação para comercialização em marketplace","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 40H - REMOTO","titulo":"Sebraetec Senai - Planejamento e preparação para comercialização em marketplace",
-    "codigoRae":4705,"codigoRm":40864,"valorSTecSenai":6946,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":40,"modalidade":"REMOTO"
+    "codigoRae":4705,"codigoRm":"40864-","valorSTecSenai":6946,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":40,"modalidade":"REMOTO"
 },
 {"linkFicha":"https://datasebrae.com.br/wp-content/uploads/2020/09/UX-Experi%C3%AAncia-do-Usu%C3%A1rio-em-Ambientes-Digitais-DS24002-3.pdf",
     "tagProduto":"Experiencia do usuário em ambientes digitais","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 40H - REMOTO","titulo":"Sebraetec Senai - Experiencia do usuário em ambientes digitais",
-    "codigoRae":4709,"codigoRm":40864,"valorSTecSenai":6946,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":40,"modalidade":"REMOTO"
+    "codigoRae":4709,"codigoRm":"40864-","valorSTecSenai":6946,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":40,"modalidade":"REMOTO"
 },
 {"linkFicha":"https://datasebrae.com.br/wp-content/uploads/2021/09/Design-e-Melhoria-de-Servic%CC%A7os-DS24001-4.pdf",
     "tagProduto":"Design e melhoria de serviços","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 40H - REMOTO","titulo":"Sebraetec Senai - Design e melhoria de serviços",
-    "codigoRae":5875,"codigoRm":40864,"valorSTecSenai":6946,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":40,"modalidade":"REMOTO"
+    "codigoRae":5875,"codigoRm":"40864-","valorSTecSenai":6946,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":40,"modalidade":"REMOTO"
 },
 {"linkFicha":"https://datasebrae.com.br/wp-content/uploads/2021/09/Inserc%CC%A7a%CC%83o-digital-%E2%80%93-Desenvolvimento-de-WebSite-TD46003-4.pdf",
     "tagProduto":"Inserção digital- Desenvolvimento de website","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 45H - REMOTO","titulo":"Sebraetec Senai - Inserção digital- Desenvolvimento de website",
-    "codigoRae":4704,"codigoRm":42570,"valorSTecSenai":7814,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":45,"modalidade":"REMOTO"
+    "codigoRae":4704,"codigoRm":"42570-","valorSTecSenai":7814,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":45,"modalidade":"REMOTO"
 },
 {"linkFicha":"https://datasebrae.com.br/wp-content/uploads/2020/12/Planejamento-para-presen%C3%A7a-digital-e-links-patrocinados-TD46005-4.pdf",
     "tagProduto":"Planejamento para presença digital e links patrocinados","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 45H - REMOTO","titulo":"Sebraetec Senai - Planejamento para presença digital e links patrocinados",
-    "codigoRae":4708,"codigoRm":42570,"valorSTecSenai":7814,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":45,"modalidade":"REMOTO"
+    "codigoRae":4708,"codigoRm":"42570-","valorSTecSenai":7814,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":45,"modalidade":"REMOTO"
 },
 {"linkFicha":"https://datasebrae.com.br/wp-content/uploads/2020/04/Caderno-de-Tend%C3%AAncias-DS24003-3.pdf",
     "tagProduto":"Caderno de tendências","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - REMOTO","titulo":"Sebraetec Senai - Caderno de tendências",
-    "codigoRae":4687,"codigoRm":40865,"valorSTecSenai":10959,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"REMOTO"
+    "codigoRae":4687,"codigoRm":"40865-","valorSTecSenai":10959,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"REMOTO"
 },
 {"linkFicha":"https://datasebrae.com.br/wp-content/uploads/2020/04/Desenvolvimento-de-M%C3%ADdias-Digitais-de-Comunica%C3%A7%C3%A3o-TD46011-3.pdf",
     "tagProduto":"Desenvolvimento de mídias digitais de comunicação","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - REMOTO","titulo":"Sebraetec Senai - Desenvolvimento de mídias digitais de comunicação",
-    "codigoRae":4691,"codigoRm":40865,"valorSTecSenai":10959,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"REMOTO"
+    "codigoRae":4691,"codigoRm":"40865-","valorSTecSenai":10959,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"REMOTO"
 },
 {"linkFicha":"https://datasebrae.com.br/wp-content/uploads/2020/04/Design-de-Produto-Tridimensional-DP23002-2.pdf",
     "tagProduto":"Design de produto tridimensional","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - REMOTO","titulo":"Sebraetec Senai - Design de produto tridimensional",
-    "codigoRae":4694,"codigoRm":40865,"valorSTecSenai":10959,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"REMOTO"
+    "codigoRae":4694,"codigoRm":"40865-","valorSTecSenai":10959,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"REMOTO"
 },
 {"linkFicha":"https://datasebrae.com.br/wp-content/uploads/2021/09/Design-de-Ro%CC%81tulos-e-Aplicac%CC%A7o%CC%83es-de-elementos-gra%CC%81ficos-na-embalagem-DC22004-4.pdf",
     "tagProduto":"Design de Rótulo(s) e Aplicações de elementos gráficos na embalagem","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - REMOTO","titulo":"Sebraetec Senai - Design de Rótulo(s) e Aplicações de elementos gráficos na embalagem",
-    "codigoRae":4696,"codigoRm":40865,"valorSTecSenai":10959,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"REMOTO"
+    "codigoRae":4696,"codigoRm":"40865-","valorSTecSenai":10959,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"REMOTO"
 },
 {"linkFicha":"https://datasebrae.com.br/wp-content/uploads/2021/09/Design-e-Melhoria-de-Servic%CC%A7os-DS24001-4.pdf",
     "tagProduto":"Design e melhoria de serviços","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - REMOTO","titulo":"Sebraetec Senai - Design e melhoria de serviços",
-    "codigoRae":4697,"codigoRm":40865,"valorSTecSenai":10959,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"REMOTO"
+    "codigoRae":4697,"codigoRm":"40865-","valorSTecSenai":10959,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"REMOTO"
 },
 {"linkFicha":"https://datasebrae.com.br/wp-content/uploads/2020/04/Estudo-de-Prospec%C3%A7%C3%A3o-Tecnol%C3%B3gica-PT44001-2.pdf",
     "tagProduto":"Estudo de prospecção tecnológica","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - REMOTO","titulo":"Sebraetec Senai - Estudo de prospecção tecnológica",
-    "codigoRae":4699,"codigoRm":40865,"valorSTecSenai":10959,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"REMOTO"
+    "codigoRae":4699,"codigoRm":"40865-","valorSTecSenai":10959,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"REMOTO"
 },
 {"linkFicha":"https://datasebrae.com.br/wp-content/uploads/2021/03/Implanta%C3%A7%C3%A3o-de-Loja-Virtual-TD46002-8.pdf",
     "tagProduto":"Implantação de loja virtual","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - REMOTO","titulo":"Sebraetec Senai - Implantação de loja virtual",
-    "codigoRae":4701,"codigoRm":40865,"valorSTecSenai":10959,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"REMOTO"
+    "codigoRae":4701,"codigoRm":"40865-","valorSTecSenai":10959,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"REMOTO"
 },
 {"linkFicha":"https://datasebrae.com.br/wp-content/uploads/2020/08/Implantac%CC%A7a%CC%83o-de-processos-de-Gesta%CC%83o-da-Inovac%CC%A7a%CC%83o-GI42001-6.pdf",
     "tagProduto":"Implantação de processos de gestão da inovação","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - REMOTO","titulo":"Sebraetec Senai - Implantação de processos de gestão da inovação",
-    "codigoRae":4703,"codigoRm":40865,"valorSTecSenai":10959,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"REMOTO"
+    "codigoRae":4703,"codigoRm":"40865-","valorSTecSenai":10959,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"REMOTO"
 },
 {"linkFicha":"https://datasebrae.com.br/wp-content/uploads/2020/05/Planejamento-e-prepara%C3%A7%C3%A3o-para-comercializa%C3%A7%C3%A3o-em-marketplace-TD46015-1.pdf",
-    "tagProduto":"Planejamento e preparação para comercialização em marketplace","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - REMOTO","titulo":"Sebraetec Senai - Planejamento e preparação para comercialização em marketplace","codigoRae":4706,"codigoRm":40865,"valorSTecSenai":10959,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"REMOTO"
+    "tagProduto":"Planejamento e preparação para comercialização em marketplace","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - REMOTO","titulo":"Sebraetec Senai - Planejamento e preparação para comercialização em marketplace",
+    "codigoRae":4706,"codigoRm":"40865-","valorSTecSenai":10959,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"REMOTO"
 },
 {"linkFicha":"https://datasebrae.com.br/wp-content/uploads/2020/09/UX-Experi%C3%AAncia-do-Usu%C3%A1rio-em-Ambientes-Digitais-DS24002-3.pdf",
     "tagProduto":"Experiencia do usuário em ambientes digitais","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - REMOTO","titulo":"Sebraetec Senai - Experiencia do usuário em ambientes digitais",
-    "codigoRae":4710,"codigoRm":40865,"valorSTecSenai":10959,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"REMOTO"
+    "codigoRae":4710,"codigoRm":"40865-","valorSTecSenai":10959,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"REMOTO"
 },
 {"linkFicha":"https://datasebrae.com.br/wp-content/uploads/2021/03/Branding-DC22001-3.pdf",
     "tagProduto":"Branding","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 100H - REMOTO","titulo":"Sebraetec Senai - Branding",
-    "codigoRae":4685,"codigoRm":40867,"valorSTecSenai":17365,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":100,"modalidade":"REMOTO"
+    "codigoRae":4685,"codigoRm": "40867-","valorSTecSenai":17365,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":100,"modalidade":"REMOTO"
 },
 {"linkFicha":"https://datasebrae.com.br/wp-content/uploads/2020/08/Desenvolvimento-de-aplicativos-TD46004-5.pdf",
     "tagProduto":"Desenvolvimento de aplicativos","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 140H - REMOTO","titulo":"Sebraetec Senai - Desenvolvimento de aplicativos",
-    "codigoRae":4689,"codigoRm":40869,"valorSTecSenai":24311,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":140,"modalidade":"REMOTO"}]
+    "codigoRae":4689,"codigoRm": "40869-","valorSTecSenai":24311,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":140,"modalidade":"REMOTO"}]
