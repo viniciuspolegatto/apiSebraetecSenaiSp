@@ -7,7 +7,7 @@
       "codigoRae": 4727,
       "codigoRm": 42567,
       "valorSTecSenai": 770.00,
-      "pubilico": "ME/EPP",
+      "publico": "ME/EPP",
       "setorAtendido": "Ind./Com./Serv."
       "cargaHoraria": 4,
       "modalidade": "PRESENCIAL"
@@ -20,7 +20,7 @@
       "codigoRae": 4717,
       "codigoRm": 42567,
       "valorSTecSenai": 4950.00,
-      "pubilico": "ME/EPP",
+      "publico": "ME/EPP",
       "setorAtendido": "Ind./Com./Serv."        
       "cargaHoraria": 30,
       "modalidade": "PRESENCIAL"
@@ -33,7 +33,7 @@
       "codigoRae": 4720,
       "codigoRm": 42568,
       "valorSTecSenai": 4950.00,
-      "pubilico": "ME",
+      "publico": "ME",
       "setorAtendido": "Ind./Com./Serv."        
       "cargaHoraria": 40,
       "modalidade": "PRESENCIAL"
@@ -46,8 +46,8 @@
       "codigoRae": 4733,
       "codigoRm": 40864,
       "valorSTecSenai": 4950.00,
-      "pubilico": "ME/EPP",
-      "setorAtendido": "Ind./Com./Serv."
+      "publico": "ME/EPP",
+      "setorAtendido": "Ind./Serv."
       "cargaHoraria": 40,
       "modalidade": "PRESENCIAL"
     },
@@ -59,8 +59,8 @@
       "codigoRae": 4736,
       "codigoRm": 40864,
       "valorSTecSenai": 4950.00,
-      "pubilico": "ME",
-      "setorAtendido": "Ind./Com./Serv."
+      "publico": "ME",
+      "setorAtendido": "Ind."
       "cargaHoraria": 40,
       "modalidade": "PRESENCIAL"
     },
@@ -72,7 +72,7 @@
       "codigoRae": 4745,
       "codigoRm": 40864,
       "valorSTecSenai": 4950.00,
-      "pubilico": "ME/EPP",
+      "publico": "ME/EPP",
       "setorAtendido": "Ind./Com./Serv."
       "cargaHoraria": 40,
       "modalidade": "PRESENCIAL"
@@ -86,7 +86,7 @@
       "codigoRm": 40864,
       "valorSTecSenai": 9900.00,
       "pubilico": "ME/EPP",
-      "setorAtendido": "Ind./Com./Serv."
+      "setorAtendido": "Ind./Serv."
       "cargaHoraria": 60,
       "modalidade": "PRESENCIAL"
     },
@@ -98,7 +98,7 @@
       "codigoRae": 4721,
       "codigoRm": 40864,
       "valorSTecSenai": 9900.00,
-      "pubilico": "EPP",
+      "publico": "EPP",
       "setorAtendido": "Ind./Com./Serv."
       "cargaHoraria": 60,
       "modalidade": "PRESENCIAL"
@@ -111,8 +111,8 @@
       "codigoRae": 4728,
       "codigoRm": 40865,
       "valorSTecSenai": 9900.00,
-      "pubilico": "ME",
-      "setorAtendido": "Ind./Com./Serv."
+      "publico": "ME",
+      "setorAtendido": "Ind./"
       "cargaHoraria": 60,
       "modalidade": "PRESENCIAL"
     },
@@ -124,8 +124,8 @@
       "codigoRae": 4737,
       "codigoRm": 40865,
       "valorSTecSenai": 9900.00 ,
-      "pubilico": "EPP",
-      "setorAtendido": "Ind./Com./Serv."
+      "publico": "EPP",
+      "setorAtendido": "Ind./Serv."
       "cargaHoraria": 60,
       "modalidade": "PRESENCIAL"
     },
@@ -137,7 +137,7 @@
       "codigoRae": 4747,
       "codigoRm": 40865,
       "valorSTecSenai": 0 ,
-      "pubilico": "ME",
+      "publico": "ME",
       "setorAtendido": "Ind./Com./Serv."
       "cargaHoraria": 60,
       "modalidade": "PRESENCIAL"
@@ -150,8 +150,8 @@
       "codigoRae": 4722,
       "codigoRm": 40865,
       "valorSTecSenai": 9900 ,
-      "pubilico": "ME",
-      "setorAtendido": "Ind./Com./Serv."
+      "publico": "ME",
+      "setorAtendido": "Ind."
       "cargaHoraria": 60,
       "modalidade": "PRESENCIAL"
     },
@@ -163,8 +163,8 @@
       "codigoRae": 4729,
       "codigoRm": 40865,
       "valorSTecSenai": 9900 ,
-      "pubilico": "ME",
-      "setorAtendido": "Ind./Com./Serv."
+      "publico": "ME",
+      "setorAtendido": "Ind."
       "cargaHoraria": 60,
       "modalidade": "PRESENCIAL"
     },
@@ -176,7 +176,7 @@
       "codigoRae": 4732,
       "codigoRm": 40865,
       "valorSTecSenai": 9900 ,
-      "pubilico": "ME",
+      "publico": "ME",
       "setorAtendido": "Ind./Com./Serv."
       "cargaHoraria": 60,
       "modalidade": "PRESENCIAL"
@@ -189,7 +189,7 @@
       "codigoRae": 4738,
       "codigoRm": 40865,
       "valorSTecSenai": 9900 ,
-      "pubilico": "ME/EPP",
+      "publico": "ME/EPP",
       "setorAtendido": "Ind./Com./Serv."
       "cargaHoraria": 60,
       "modalidade": "PRESENCIAL"
@@ -202,8 +202,8 @@
       "codigoRae": 4740,
       "codigoRm": 40865,
       "valorSTecSenai": 9900 ,
-      "pubilico": "ME",
-      "setorAtendido": "Ind./Com./Serv."
+      "publico": "ME",
+      "setorAtendido": "Ind./Serv."
       "cargaHoraria": 60,
       "modalidade": "PRESENCIAL"
     },
@@ -215,8 +215,8 @@
       "codigoRae": 4744,
       "codigoRm": 40865,
       "valorSTecSenai": 9900 ,
-      "pubilico": "ME",
-      "setorAtendido": "Ind./Com./Serv."
+      "publico": "ME",
+      "setorAtendido": "Ind./Serv."
       "cargaHoraria": 60,
       "modalidade": "PRESENCIAL"
     },
@@ -228,8 +228,8 @@
       "codigoRae": 4735,
       "codigoRm": 40869,
       "valorSTecSenai": 770.00,
-      "pubilico": "ME/EPP",
-      "setorAtendido": "Ind./Com./Serv."
+      "publico": "ME/EPP",
+      "setorAtendido": "Ind."
       "cargaHoraria": 4,
       "modalidade": "PRESENCIAL"
     }
