@@ -1,236 +1,218 @@
-[
-    {
-      "linkFicha": "https://datasebrae.com.br/wp-content/uploads/2020/09/Framework-OKR-para-Otimizac%CC%A7a%CC%83o-de-Processos-MMP14065-1.pdf",
-      "tagProduto": "Framework OKR para otimização de processos",
-      "familia": "SEBRAETEC - CONSULTORIA TECNOLÓGICA 4H - PRESENCIAL",
-      "titulo": "Sebraetec Senai - Framework OKR para otimização de processos",
-      "codigoRae": 4727,
-      "codigoRm": 42567,
-      "valorSTecSenai": 770.00,
-      "publico": "ME/EPP",
-      "setorAtendido": "Ind./Com./Serv.",
-      "cargaHoraria": 4,
-      "modalidade": "PRESENCIAL"
-    },
-    {
-      "linkFicha": "https://datasebrae.com.br/wp-content/uploads/2020/04/Consultoria-para-Growth-Hacking-TD46010-2.pdf",
-      "tagProduto": "Growth Hacking",
-      "familia": "SEBRAETEC - CONSULTORIA TECNOLÓGICA 30H - PRESENCIAL",
-      "titulo": "Sebraetec Senai - Consultoria para Growth Hacking",
-      "codigoRae": 4717,
-      "codigoRm": 42568,
-      "valorSTecSenai": 4950.00,
-      "publico": "ME/EPP",
-      "setorAtendido": "Ind./Com./Serv.",
-      "cargaHoraria": 30,
-      "modalidade": "PRESENCIAL"
-    },
-    {
-      "linkFicha": "https://datasebrae.com.br/wp-content/uploads/2021/11/Implanta%C3%A7%C3%A3o-de-Requisitos-de-Qualidade-Meio-Ambiente-e-Sa%C3%BAde-e-Seguran%C3%A7a-no-Trabalho-Efici%C3%AAncia-Operacional-Efici%C3%AAncia-Energ%C3%A9tica-e-Compliance-para-Fornecedores-GQ13033-4.pdfhttps://datasebrae.com.br/wp-content/uploads/2021/11/Implanta%C3%A7%C3%A3o-de-Requisitos-de-Qualidade-Meio-Ambiente-e-Sa%C3%BAde-e-Seguran%C3%A7a-no-Trabalho-Efici%C3%AAncia-Operacional-Efici%C3%AAncia-Energ%C3%A9tica-e-Compliance-para-Fornecedores-GQ13033-4.pdf",
-      "tagProduto": "Requisitos de Qualidade e Eficiência Energética",
-      "familia": "SEBRAETEC - CONSULTORIA TECNOLÓGICA 40H - PRESENCIAL",
-      "titulo": "Sebraetec Senai - Implantação de Requisitos de Qualidade, Meio Ambiente, Saúde e Segurança no Trabalho, Eficiência Operacional, Eficiência Energética e Compliance para Fornecedores",
-      "codigoRae": 4720,
-      "codigoRm": 40864,
-      "valorSTecSenai": 4950.00,
-      "publico": "ME",
-      "setorAtendido": "Ind./Com./Serv.",        
-      "cargaHoraria": 40,
-      "modalidade": "PRESENCIAL"
-    },
-    {
-      "linkFicha": "https://datasebrae.com.br/wp-content/uploads/2021/09/Modelagem-e-Graduac%CC%A7a%CC%83o-para-Vestua%CC%81rio-MMP14039-4.pdf",
-      "tagProduto": "Modelagem e Graduação para Vestuário",
-      "familia": "SEBRAETEC - CONSULTORIA TECNOLÓGICA 40H - PRESENCIAL",
-      "titulo": "Sebraetec Senai - Modelagem e Graduação para Vestuário",
-      "codigoRae": 4733,
-      "codigoRm": 40864,
-      "valorSTecSenai": 4950.00,
-      "publico": "ME/EPP",
-      "setorAtendido": "Ind./Serv.",
-      "cargaHoraria": 40,
-      "modalidade": "PRESENCIAL"
-    },
-    {
-      "linkFicha": "https://datasebrae.com.br/wp-content/uploads/2021/10/Modelagem-Encaixe-e-Plotagem-DP23004-3.pdf",
-      "tagProduto": "Modelagem, Encaixe e Plotagem",
-      "familia": "SEBRAETEC - CONSULTORIA TECNOLÓGICA 40H - PRESENCIAL",
-      "titulo": "Sebraetec Senai - Modelagem, encaixe e plotagem",
-      "codigoRae": 4736,
-      "codigoRm": 40864,
-      "valorSTecSenai": 4950.00,
-      "publico": "ME",
-      "setorAtendido": "Ind.",
-      "cargaHoraria": 40,
-      "modalidade": "PRESENCIAL"
-    },
-    {
-      "linkFicha": "https://datasebrae.com.br/wp-content/uploads/2020/12/Melhoria-da-Efici%C3%AAncia-Energ%C3%A9tica-e-fontes-de-energia-alternativas-EE32005-3.pdf",
-      "tagProduto": "Eficiência Energética",
-      "familia": "SEBRAETEC - CONSULTORIA TECNOLÓGICA 40H - PRESENCIAL",
-      "titulo": "Sebraetec Senai - Melhoria da eficiência energética e fontes de energia alternativa",
-      "codigoRae": 4745,
-      "codigoRm": 40864,
-      "valorSTecSenai": 4950.00,
-      "publico": "ME/EPP",
-      "setorAtendido": "Ind./Com./Serv.",
-      "cargaHoraria": 40,
-      "modalidade": "PRESENCIAL"
-    },
-    {
-      "linkFicha": "https://datasebrae.com.br/wp-content/uploads/2020/04/Consultoria-para-cria%C3%A7%C3%A3o-de-BIM-Mandate-e-Plano-de-Implanta%C3%A7%C3%A3o-MMP14047-2.pdf",
-      "tagProduto": "Consultoria para BIM Mandate",
-      "familia": "SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - PRESENCIAL",
-      "titulo": "Sebraetec Senai - Consultoria para criação de BIM Mandate e Plano de Implantação do processo de modelagem da informação para o setor de construção civil (BIM)",
-      "codigoRae": 4716,
-      "codigoRm": 40865,
-      "valorSTecSenai": 9900.00,
-      "publico": "ME/EPP",
-      "setorAtendido": "Ind./Serv.",
-      "cargaHoraria": 60,
-      "modalidade": "PRESENCIAL"
-    },
-    {
-      "linkFicha": "",
-      "tagProduto": "Implantação de Requisitos da Qualidade, Compliance e Eficiência",
-      "familia": "SEBRAETEC - CONSULTORIA TECNOLÓGICA 40H - PRESENCIAL",
-      "titulo": "Sebraetec Senai - Implantação de Requisitos de Qualidade, Meio Ambiente, Saúde e Segurança no Trabalho, Eficiência Operacional, Eficiência Energética e Compliance para Fornecedores",
-      "codigoRae": 4721,
-      "codigoRm": 40865,
-      "valorSTecSenai": 9900.00,
-      "publico": "EPP",
-      "setorAtendido": "Ind./Com./Serv.",
-      "cargaHoraria": 60,
-      "modalidade": "PRESENCIAL"
-    },
-    {
-      "linkFicha": "",
-      "tagProduto": "Lean Manufacturing",
-      "familia": "SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - PRESENCIAL",
-      "titulo": "Sebraetec Senai - Lean Manufacturing",
-      "codigoRae": 4728,
-      "codigoRm": 40865,
-      "valorSTecSenai": 9900.00,
-      "publico": "ME",
-      "setorAtendido": "Ind./",
-      "cargaHoraria": 60,
-      "modalidade": "PRESENCIAL"
-    },
-    {
-      "linkFicha": "",
-      "tagProduto": "Modelagem Encaixe e Plotagem",
-      "familia": "SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - PRESENCIAL",
-      "titulo": "Sebraetec Senai - Modelagem, encaixe e plotagem",
-      "codigoRae": 4737,
-      "codigoRm": 40865,
-      "valorSTecSenai": 9900.00 ,
-      "publico": "EPP",
-      "setorAtendido": "Ind./Serv.",
-      "cargaHoraria": 60,
-      "modalidade": "PRESENCIAL"
-    },
-    {
-      "linkFicha": "",
-      "tagProduto": "Melhoria de Eficiência Energética",
-      "familia": "SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - PRESENCIAL",
-      "titulo": "Sebraetec Senai - Melhoria da eficiência energética e fontes de energia alternativas",
-      "codigoRae": 4747,
-      "codigoRm": 40865,
-      "valorSTecSenai": 0 ,
-      "publico": "ME",
-      "setorAtendido": "Ind./Com./Serv.",
-      "cargaHoraria": 60,
-      "modalidade": "PRESENCIAL"
-    },
-    {
-      "linkFicha": "",
-      "tagProduto": "Implementação de projeto de automação industrial",
-      "familia": "SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - PRESENCIAL",
-      "titulo": "Sebraetec Senai - Elaboração em implementação de projeto de automação industrial",
-      "codigoRae": 4722,
-      "codigoRm": 40865,
-      "valorSTecSenai": 9900 ,
-      "publico": "ME",
-      "setorAtendido": "Ind.",
-      "cargaHoraria": 60,
-      "modalidade": "PRESENCIAL"
-    },
-    {
-      "linkFicha": "",
-      "tagProduto": "Otimização por IoT",
-      "familia": "SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - PRESENCIAL",
-      "titulo": "Sebraetec Senai - Otimização de Processos com conectividade (IoT)",
-      "codigoRae": 4729,
-      "codigoRm": 40865,
-      "valorSTecSenai": 9900 ,
-      "publico": "ME",
-      "setorAtendido": "Ind.",
-      "cargaHoraria": 60,
-      "modalidade": "PRESENCIAL"
-    },
-    {
-      "linkFicha": "",
-      "tagProduto": "Implantação da integração de sistemas produtivos",
-      "familia": "SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - PRESENCIAL",
-      "titulo": "Sebraetec Senai - Implantação da integração de sistemas produtivos",
-      "codigoRae": 4732,
-      "codigoRm": 40865,
-      "valorSTecSenai": 9900 ,
-      "publico": "ME",
-      "setorAtendido": "Ind./Com./Serv.",
-      "cargaHoraria": 60,
-      "modalidade": "PRESENCIAL"
-    },
-    {
-      "linkFicha": "",
-      "tagProduto": "Implantação do Código de Barra",
-      "familia": "SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - PRESENCIAL",
-      "titulo": "Sebraetec Senai - Implantação do Código de Barra",
-      "codigoRae": 4738,
-      "codigoRm": 40865,
-      "valorSTecSenai": 9900 ,
-      "publico": "ME/EPP",
-      "setorAtendido": "Ind./Com./Serv.",
-      "cargaHoraria": 60,
-      "modalidade": "PRESENCIAL"
-    },
-    {
-      "linkFicha": "",
-      "tagProduto": "Melhoria de layout produtivo",
-      "familia": "SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - PRESENCIAL",
-      "titulo": "Sebraetec Senai - Melhoria de layout produtivo",
-      "codigoRae": 4740,
-      "codigoRm": 40865,
-      "valorSTecSenai": 9900 ,
-      "publico": "ME",
-      "setorAtendido": "Ind./Serv.",
-      "cargaHoraria": 60,
-      "modalidade": "PRESENCIAL"
-    },
-    {
-      "linkFicha": "",
-      "tagProduto": "Planejamento e Controle da Produção",
-      "familia": "SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - PRESENCIAL",
-      "titulo": "Sebraetec Senai - Planejamento e controle de produção",
-      "codigoRae": 4744,
-      "codigoRm": 40865,
-      "valorSTecSenai": 9900 ,
-      "publico": "ME",
-      "setorAtendido": "Ind./Serv.",
-      "cargaHoraria": 60,
-      "modalidade": "PRESENCIAL"
-    },
-    {
-      "linkFicha": "https://datasebrae.com.br/wp-content/uploads/2020/04/Planejamento-Estrat%C3%A9gico-Tecnol%C3%B3gico-PT44002-2.pdf",
-      "tagProduto": "Planejamento Estratégico Tecnológico",
-      "familia": "SEBRAETEC - CONSULTORIA TECNOLÓGICA 140H - PRESENCIAL",
-      "titulo": "Sebraetec Senai - Planejamento Estratégico Tecnológico",
-      "codigoRae": 4735,
-      "codigoRm": 40869,
-      "valorSTecSenai": 770.00,
-      "publico": "ME/EPP",
-      "setorAtendido": "Ind.",
-      "cargaHoraria": 4,
-      "modalidade": "PRESENCIAL"
-    }
-]
+[{
+    "linkFicha":"https://datasebrae.com.br/wp-content/uploads/2020/09/Framework-OKR-para-Otimizac%CC%A7a%CC%83o-de-Processos-MMP14065-1.pdf",
+    "tagProduto":"Framework OKR para otimização de processos",
+    "familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 4H - PRESENCIAL",
+    "titulo":"Sebraetec Senai - Framework OKR para otimização de processos",
+    "codigoRae":4727,
+    "codigoRm":42567,
+    "valorSTecSenai":759,
+    "publico":"ME/EPP",
+    "setorAtendido":"Ind./ Com./ Serv.",
+    "cargaHoraria":4,
+    "modalidade":"PRESENCIAL"
+},
+{
+    "linkFicha":"https://datasebrae.com.br/wp-content/uploads/2020/04/Consultoria-para-Growth-Hacking-TD46010-2.pdf",
+    "tagProduto":"Consultoria para Growth Hacking",
+    "familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 30H - PRESENCIAL",
+    "titulo":"Sebraetec Senai - Consultoria para Growth Hacking",
+    "codigoRae":4717,
+    "codigoRm":42568,
+    "valorSTecSenai":5692,
+    "publico":"ME\/EPP",
+    "setorAtendido":"Ind.\/ Com.\/ Serv.",
+    "cargaHoraria":30,"modalidade":"PRESENCIAL"
+},
+{
+    "linkFicha":"https://datasebrae.com.br/wp-content/uploads/2021/11/Implanta%C3%A7%C3%A3o-de-Requisitos-de-Qualidade-Meio-Ambiente-e-Sa%C3%BAde-e-Seguran%C3%A7a-no-Trabalho-Efici%C3%AAncia-Operacional-Efici%C3%AAncia-Energ%C3%A9tica-e-Compliance-para-Fornecedores-GQ13033-4.pdfhttps://datasebrae.com.br/wp-content/uploads/2021/11/Implanta%C3%A7%C3%A3o-de-Requisitos-de-Qualidade-Meio-Ambiente-e-Sa%C3%BAde-e-Seguran%C3%A7a-no-Trabalho-Efici%C3%AAncia-Operacional-Efici%C3%AAncia-Energ%C3%A9tica-e-Compliance-para-Fornecedores-GQ13033-4.pdf",
+    "tagProduto":"Implantação de Requisitos de Qualidade, Meio Ambiente, Saúde e Segurança no Trabalho, Eficiência Operacional, Eficiência Energética e Compliance para Fornecedores","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 40H - PRESENCIAL","titulo":"Sebraetec Senai - Implantação de Requisitos de Qualidade, Meio Ambiente, Saúde e Segurança no Trabalho, Eficiência Operacional, Eficiência Energética e Compliance para Fornecedores","codigoRae":4720,"codigoRm":40864,"valorSTecSenai":7590,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":40,"modalidade":"PRESENCIAL"
+},
+{"linkFicha":"https://datasebrae.com.br/wp-content/uploads/2021/09/Modelagem-e-Graduac%CC%A7a%CC%83o-para-Vestua%CC%81rio-MMP14039-4.pdf",
+    "tagProduto":"Modelagem e Graduação para Vestuário","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 40H - PRESENCIAL","titulo":"Sebraetec Senai - Modelagem e Graduação para Vestuário","codigoRae":4733,"codigoRm":40864,"valorSTecSenai":7590,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":40,"modalidade":"PRESENCIAL"
+},
+{"linkFicha":"https://datasebrae.com.br/wp-content/uploads/2021/10/Modelagem-Encaixe-e-Plotagem-DP23004-3.pdf",
+    "tagProduto":"Modelagem, encaixe e plotagem","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 40H - PRESENCIAL","titulo":"Sebraetec Senai - Modelagem, encaixe e plotagem","codigoRae":4736,"codigoRm":40864,"valorSTecSenai":7590,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":40,"modalidade":"PRESENCIAL"
+},
+{"linkFicha":"https://datasebrae.com.br/wp-content/uploads/2020/12/Melhoria-da-Efici%C3%AAncia-Energ%C3%A9tica-e-fontes-de-energia-alternativas-EE32005-3.pdf",
+    "tagProduto":"Melhoria da eficiência energética e fontes de energia alternativas","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 40H - PRESENCIAL","titulo":"Sebraetec Senai - Melhoria da eficiência energética e fontes de energia alternativas","codigoRae":4745,"codigoRm":40864,"valorSTecSenai":7590,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":40,"modalidade":"PRESENCIAL"
+},
+{"linkFicha":"https://datasebrae.com.br/wp-content/uploads/2020/04/Consultoria-para-cria%C3%A7%C3%A3o-de-BIM-Mandate-e-Plano-de-Implanta%C3%A7%C3%A3o-MMP14047-2.pdf",
+    "tagProduto":"Consultoria para criação de BIM Mandate e Plano de Implantação do processo de modelagem da informação para o setor de construção civil (BIM)","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - PRESENCIAL","titulo":"Sebraetec Senai - Consultoria para criação de BIM Mandate e Plano de Implantação do processo de modelagem da informação para o setor de construção civil (BIM)","codigoRae":4716,"codigoRm":40865,"valorSTecSenai":11385,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"PRESENCIAL"
+},
+{
+    "linkFicha":"https://datasebrae.com.br/wp-content/uploads/2021/11/Implanta%C3%A7%C3%A3o-de-Requisitos-de-Qualidade-Meio-Ambiente-e-Sa%C3%BAde-e-Seguran%C3%A7a-no-Trabalho-Efici%C3%AAncia-Operacional-Efici%C3%AAncia-Energ%C3%A9tica-e-Compliance-para-Fornecedores-GQ13033-4.pdfhttps://datasebrae.com.br/wp-content/uploads/2021/11/Implanta%C3%A7%C3%A3o-de-Requisitos-de-Qualidade-Meio-Ambiente-e-Sa%C3%BAde-e-Seguran%C3%A7a-no-Trabalho-Efici%C3%AAncia-Operacional-Efici%C3%AAncia-Energ%C3%A9tica-e-Compliance-para-Fornecedores-GQ13033-4.pdf",
+    "tagProduto":"Implantação de Requisitos de Qualidade, Meio Ambiente, Saúde e Segurança no Trabalho, Eficiência Operacional, Eficiência Energética e Compliance para Fornecedores","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - PRESENCIAL","titulo":"Sebraetec Senai - Implantação de Requisitos de Qualidade, Meio Ambiente, Saúde e Segurança no Trabalho, Eficiência Operacional, Eficiência Energética e Compliance para Fornecedores","codigoRae":4721,"codigoRm":40865,"valorSTecSenai":11385,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"PRESENCIAL"
+},
+{"linkFicha":null,
+    "tagProduto":"Lean Manufacturing","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - PRESENCIAL","titulo":"Sebraetec Senai - Lean Manufacturing","codigoRae":4728,"codigoRm":40865,"valorSTecSenai":11385,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"PRESENCIAL"
+},
+{"linkFicha":null,
+    "tagProduto":"Modelagem, encaixe e plotagem","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - PRESENCIAL","titulo":"Sebraetec Senai - Modelagem, encaixe e plotagem","codigoRae":4737,"codigoRm":40865,"valorSTecSenai":11385,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"PRESENCIAL"
+},
+{"linkFicha":null,
+    "tagProduto":"Melhoria da eficiência energética e fontes de energia alternativas","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - PRESENCIAL","titulo":"Sebraetec Senai - Melhoria da eficiência energética e fontes de energia alternativas","codigoRae":4747,"codigoRm":40865,"valorSTecSenai":11385,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"PRESENCIAL"
+},
+{"linkFicha":null,
+    "tagProduto":"Elaboração em implementação de projeto de automação industrial","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - PRESENCIAL","titulo":"Sebraetec Senai - Elaboração em implementação de projeto de automação industrial","codigoRae":4722,"codigoRm":40865,"valorSTecSenai":11385,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"PRESENCIAL"
+},
+{"linkFicha":null,
+    "tagProduto":"Otimização de Processos com conectividade (IoT)","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - PRESENCIAL","titulo":"Sebraetec Senai - Otimização de Processos com conectividade (IoT)","codigoRae":4729,"codigoRm":40865,"valorSTecSenai":11385,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"PRESENCIAL"
+},
+{"linkFicha":null,
+    "tagProduto":"Implantação da integração de sistemas produtivos","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - PRESENCIAL","titulo":"Sebraetec Senai - Implantação da integração de sistemas produtivos","codigoRae":4732,"codigoRm":40865,"valorSTecSenai":11385,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"PRESENCIAL"
+},
+{"linkFicha":null,
+    "tagProduto":"Implantação do Código de Barra","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - PRESENCIAL","titulo":"Sebraetec Senai - Implantação do Código de Barra","codigoRae":4738,"codigoRm":40865,"valorSTecSenai":11385,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"PRESENCIAL"
+},
+{"linkFicha":null,
+    "tagProduto":"Melhoria de layout produtivo","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - PRESENCIAL","titulo":"Sebraetec Senai - Melhoria de layout produtivo","codigoRae":4740,"codigoRm":40865,"valorSTecSenai":11385,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"PRESENCIAL"
+},
+{"linkFicha":null,
+    "tagProduto":"Planejamento e controle de produção","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - PRESENCIAL","titulo":"Sebraetec Senai - Planejamento e controle de produção","codigoRae":4744,"codigoRm":40865,"valorSTecSenai":11385,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"PRESENCIAL"
+},
+{"linkFicha":null,
+    "tagProduto":"Aplicação do método de implementação de softwares com tecnologia BIM para o setor de construção civil (BIM)","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 80H - PRESENCIAL","titulo":"Sebraetec Senai - Aplicação do método de implementação de softwares com tecnologia BIM para o setor de construção civil (BIM)","codigoRae":4713,"codigoRm":40866,"valorSTecSenai":15180,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":80,"modalidade":"PRESENCIAL"
+},
+{"linkFicha":null,
+    "tagProduto":"Desenvolvimento de Coleções","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 80H - PRESENCIAL","titulo":"Sebraetec Senai - Desenvolvimento de Coleções","codigoRae":4718,"codigoRm":40866,"valorSTecSenai":15180,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":80,"modalidade":"PRESENCIAL"
+},
+{"linkFicha":null,
+    "tagProduto":"Lean Construction","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 80H - PRESENCIAL","titulo":"Sebraetec Senai - Lean Construction","codigoRae":4723,"codigoRm":40866,"valorSTecSenai":15180,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":80,"modalidade":"PRESENCIAL"
+},
+{"linkFicha":null,
+    "tagProduto":"Parametrização de processos industriais automatizados","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 80H - PRESENCIAL","titulo":"Sebraetec Senai - Parametrização de processos industriais automatizados","codigoRae":4743,"codigoRm":40866,"valorSTecSenai":15180,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":80,"modalidade":"PRESENCIAL"
+},
+{"linkFicha":null,
+    "tagProduto":"Prototipagem de Novos Produtos","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 80H - PRESENCIAL","titulo":"Sebraetec Senai - Prototipagem de Novos Produtos","codigoRae":4741,"codigoRm":40866,"valorSTecSenai":15180,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":80,"modalidade":"PRESENCIAL"
+},
+{"linkFicha":null,
+    "tagProduto":"Melhoria da eficiência energética e fontes de energia alternativas","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 80H - PRESENCIAL","titulo":"Sebraetec Senai - Melhoria da eficiência energética e fontes de energia alternativas","codigoRae":4748,"codigoRm":40866,"valorSTecSenai":15180,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":80,"modalidade":"PRESENCIAL"
+},
+{"linkFicha":null,
+    "tagProduto":"Elaboração em implementação de projeto de automação industrial","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 80H - PRESENCIAL","titulo":"Sebraetec Senai - Elaboração em implementação de projeto de automação industrial","codigoRae":4724,"codigoRm":40866,"valorSTecSenai":15180,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":80,"modalidade":"PRESENCIAL"
+},
+{"linkFicha":null,
+    "tagProduto":"Otimização de Processos com conectividade (IoT)","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 80H - PRESENCIAL","titulo":"Sebraetec Senai - Otimização de Processos com conectividade (IoT)","codigoRae":4730,"codigoRm":40866,"valorSTecSenai":15180,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":80,"modalidade":"PRESENCIAL"
+},
+{"linkFicha":null,
+    "tagProduto":"Implantação da integração de sistemas produtivos","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 80H - PRESENCIAL","titulo":"Sebraetec Senai - Implantação da integração de sistemas produtivos","codigoRae":4734,"codigoRm":40866,"valorSTecSenai":15180,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":80,"modalidade":"PRESENCIAL"
+},
+{"linkFicha":null,
+    "tagProduto":"Melhoria de layout produtivo","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 80H - PRESENCIAL","titulo":"Sebraetec Senai - Melhoria de layout produtivo","codigoRae":4742,"codigoRm":40866,"valorSTecSenai":15180,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":80,"modalidade":"PRESENCIAL"
+},
+{"linkFicha":null,
+    "tagProduto":"Realização de Modelagem e Simulações de projetos em BIM para o setor de construção civil (BIM)","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 90H - PRESENCIAL","titulo":"Sebraetec Senai - Realização de Modelagem e Simulações de projetos em BIM para o setor de construção civil (BIM)","codigoRae":4739,"codigoRm":42569,"valorSTecSenai":17077,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":90,"modalidade":"PRESENCIAL"
+},
+{"linkFicha":null,
+    "tagProduto":"Consultoria para acompanhamento de projeto piloto em BIM do setor de construção civil (BIM)","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 100H - PRESENCIAL","titulo":"Sebraetec Senai - Consultoria para acompanhamento de projeto piloto em BIM do setor de construção civil (BIM)","codigoRae":4714,"codigoRm":40867,"valorSTecSenai":18975,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":100,"modalidade":"PRESENCIAL"
+},
+{"linkFicha":null,
+    "tagProduto":"Desenvolvimento de Produto (Presencial 100 hs)","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 100H - PRESENCIAL","titulo":"Sebraetec Senai - Desenvolvimento de Produto (Presencial 100 hs)","codigoRae":4719,"codigoRm":40867,"valorSTecSenai":18975,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":100,"modalidade":"PRESENCIAL"
+},
+{"linkFicha":null,
+    "tagProduto":"Lean Construction","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 100H - PRESENCIAL","titulo":"Sebraetec Senai - Lean Construction","codigoRae":4726,"codigoRm":40867,"valorSTecSenai":18975,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":100,"modalidade":"PRESENCIAL"
+},
+{"linkFicha":null,
+    "tagProduto":"Lean Manufacturing","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 100H - PRESENCIAL","titulo":"Sebraetec Senai - Lean Manufacturing","codigoRae":4731,"codigoRm":40867,"valorSTecSenai":18975,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":100,"modalidade":"PRESENCIAL"
+},
+{"linkFicha":null,
+    "tagProduto":"Desenvolvimento de Sistemas Industriais Inteligentes","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 100H - PRESENCIAL","titulo":"Sebraetec Senai - Desenvolvimento de Sistemas Industriais Inteligentes","codigoRae":4725,"codigoRm":40867,"valorSTecSenai":18975,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":100,"modalidade":"PRESENCIAL"
+},
+{"linkFicha":null,
+    "tagProduto":"Planejamento e controle de produção","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 100H - PRESENCIAL","titulo":"Sebraetec Senai - Planejamento e controle de produção","codigoRae":4746,"codigoRm":40867,"valorSTecSenai":18975,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":100,"modalidade":"PRESENCIAL"
+},
+{"linkFicha":null,
+    "tagProduto":"Adequação à norma ABNT NBR ISO 9001:2015 – Sistema de Gestão da Qualidade","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 120H - PRESENCIAL","titulo":"Sebraetec Senai - Adequação à norma ABNT NBR ISO 9001:2015 – Sistema de Gestão da Qualidade","codigoRae":4712,"codigoRm":40868,"valorSTecSenai":22770,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":120,"modalidade":"PRESENCIAL"
+},
+{"linkFicha":null,
+    "tagProduto":"Consultoria para acompanhamento de projeto piloto em BIM do setor de construção civil (BIM)","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 120H - PRESENCIAL","titulo":"Sebraetec Senai - Consultoria para acompanhamento de projeto piloto em BIM do setor de construção civil (BIM)","codigoRae":4715,"codigoRm":40868,"valorSTecSenai":22770,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":120,"modalidade":"PRESENCIAL"
+},
+{"linkFicha":null,
+    "tagProduto":"Planejamento Estratégico Tecnológico","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 140H - PRESENCIAL","titulo":"Sebraetec Senai - Planejamento Estratégico Tecnológico","codigoRae":4735,"codigoRm":40869,"valorSTecSenai":26565,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":140,"modalidade":"PRESENCIAL"
+},
+{"linkFicha":null,
+    "tagProduto":"Consultoria Omnichannel Para Integração dos Canais de Vendas","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 24H - REMOTO","titulo":"Sebraetec Senai - Consultoria Omnichannel Para Integração dos Canais de Vendas","codigoRae":4688,"codigoRm":40863,"valorSTecSenai":4167,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":24,"modalidade":"REMOTO"
+},
+{"linkFicha":null,
+    "tagProduto":"Planejamento para busca orgânica","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 24H - REMOTO","titulo":"Sebraetec Senai - Planejamento para busca orgânica","codigoRae":4707,"codigoRm":40863,"valorSTecSenai":4167,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":24,"modalidade":"REMOTO"
+},
+{"linkFicha":null,
+    "tagProduto":"Design de embalagens","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 36H - REMOTO","titulo":"Sebraetec Senai - Design de embalagens","codigoRae":4692,"codigoRm":41123,"valorSTecSenai":6251,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":36,"modalidade":"REMOTO"
+},
+{"linkFicha":null,
+    "tagProduto":"Experiencia do usuário em ambientes digitais","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 36H - REMOTO","titulo":"Sebraetec Senai - Experiencia do usuário em ambientes digitais","codigoRae":4711,"codigoRm":40864,"valorSTecSenai":6946,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":36,"modalidade":"REMOTO"
+},
+{"linkFicha":null,
+    "tagProduto":"Elaboração de Projeto de Inovação","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 36H - REMOTO","titulo":"Sebraetec Senai - Elaboração de Projeto de Inovação","codigoRae":5876,"codigoRm":41123,"valorSTecSenai":6251,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":36,"modalidade":"REMOTO"
+},
+{"linkFicha":null,
+    "tagProduto":"Caderno de tendências","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 40H - REMOTO","titulo":"Sebraetec Senai - Caderno de tendências","codigoRae":4686,"codigoRm":40864,"valorSTecSenai":6946,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":40,"modalidade":"REMOTO"
+},
+{"linkFicha":null,
+    "tagProduto":"Desenvolvimento de mídias digitais de comunicação","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 40H - REMOTO","titulo":"Sebraetec Senai - Desenvolvimento de mídias digitais de comunicação","codigoRae":4690,"codigoRm":40864,"valorSTecSenai":6946,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":40,"modalidade":"REMOTO"
+},
+{"linkFicha":null,
+    "tagProduto":"Design de produto tridimensional","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 40H - REMOTO","titulo":"Sebraetec Senai - Design de produto tridimensional","codigoRae":4693,"codigoRm":40864,"valorSTecSenai":6946,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":40,"modalidade":"REMOTO"
+},
+{"linkFicha":null,
+    "tagProduto":"Design de Rótulo(s) e Aplicações de elementos gráficos na embalagem","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 40H - REMOTO","titulo":"Sebraetec Senai - Design de Rótulo(s) e Aplicações de elementos gráficos na embalagem","codigoRae":4695,"codigoRm":40864,"valorSTecSenai":6946,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":40,"modalidade":"REMOTO"
+},
+{"linkFicha":null,
+    "tagProduto":"Estudo de prospecção tecnológica","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 40H - REMOTO","titulo":"Sebraetec Senai - Estudo de prospecção tecnológica","codigoRae":4698,"codigoRm":40864,"valorSTecSenai":6946,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":40,"modalidade":"REMOTO"
+},
+{"linkFicha":null,
+    "tagProduto":"Implantação de loja virtual","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 40H - REMOTO","titulo":"Sebraetec Senai - Implantação de loja virtual","codigoRae":4700,"codigoRm":40864,"valorSTecSenai":6946,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":40,"modalidade":"REMOTO"
+},
+{"linkFicha":null,
+    "tagProduto":"Implantação de processos de gestão da inovação","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 40H - REMOTO","titulo":"Sebraetec Senai - Implantação de processos de gestão da inovação","codigoRae":4702,"codigoRm":40864,"valorSTecSenai":6946,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":40,"modalidade":"REMOTO"
+},
+{"linkFicha":null,
+    "tagProduto":"Planejamento e preparação para comercialização em marketplace","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 40H - REMOTO","titulo":"Sebraetec Senai - Planejamento e preparação para comercialização em marketplace","codigoRae":4705,"codigoRm":40864,"valorSTecSenai":6946,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":40,"modalidade":"REMOTO"
+},
+{"linkFicha":null,
+    "tagProduto":"Experiencia do usuário em ambientes digitais","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 40H - REMOTO","titulo":"Sebraetec Senai - Experiencia do usuário em ambientes digitais","codigoRae":4709,"codigoRm":40864,"valorSTecSenai":6946,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":40,"modalidade":"REMOTO"
+},
+{"linkFicha":null,
+    "tagProduto":"Design e melhoria de serviços","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 40H - REMOTO","titulo":"Sebraetec Senai - Design e melhoria de serviços","codigoRae":5875,"codigoRm":40864,"valorSTecSenai":6946,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":40,"modalidade":"REMOTO"
+},
+{"linkFicha":null,
+    "tagProduto":"Inserção digital- Desenvolvimento de website","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 45H - REMOTO","titulo":"Sebraetec Senai - Inserção digital- Desenvolvimento de website","codigoRae":4704,"codigoRm":42570,"valorSTecSenai":7814,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":45,"modalidade":"REMOTO"
+},
+{"linkFicha":null,
+    "tagProduto":"Planejamento para presença digital e links patrocinados","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 45H - REMOTO","titulo":"Sebraetec Senai - Planejamento para presença digital e links patrocinados","codigoRae":4708,"codigoRm":42570,"valorSTecSenai":7814,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":45,"modalidade":"REMOTO"
+},
+{"linkFicha":null,
+    "tagProduto":"Caderno de tendências","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - REMOTO","titulo":"Sebraetec Senai - Caderno de tendências","codigoRae":4687,"codigoRm":40865,"valorSTecSenai":10959,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"REMOTO"
+},
+{"linkFicha":null,
+    "tagProduto":"Desenvolvimento de mídias digitais de comunicação","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - REMOTO","titulo":"Sebraetec Senai - Desenvolvimento de mídias digitais de comunicação","codigoRae":4691,"codigoRm":40865,"valorSTecSenai":10959,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"REMOTO"
+},
+{"linkFicha":null,
+    "tagProduto":"Design de produto tridimensional","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - REMOTO","titulo":"Sebraetec Senai - Design de produto tridimensional","codigoRae":4694,"codigoRm":40865,"valorSTecSenai":10959,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"REMOTO"
+},
+{"linkFicha":null,
+    "tagProduto":"Design de Rótulo(s) e Aplicações de elementos gráficos na embalagem","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - REMOTO","titulo":"Sebraetec Senai - Design de Rótulo(s) e Aplicações de elementos gráficos na embalagem","codigoRae":4696,"codigoRm":40865,"valorSTecSenai":10959,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"REMOTO"
+},
+{"linkFicha":null,
+    "tagProduto":"Design e melhoria de serviços","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - REMOTO","titulo":"Sebraetec Senai - Design e melhoria de serviços","codigoRae":4697,"codigoRm":40865,"valorSTecSenai":10959,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"REMOTO"
+},
+{"linkFicha":null,
+    "tagProduto":"Estudo de prospecção tecnológica","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - REMOTO","titulo":"Sebraetec Senai - Estudo de prospecção tecnológica","codigoRae":4699,"codigoRm":40865,"valorSTecSenai":10959,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"REMOTO"
+},
+{"linkFicha":null,
+    "tagProduto":"Implantação de loja virtual","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - REMOTO","titulo":"Sebraetec Senai - Implantação de loja virtual","codigoRae":4701,"codigoRm":40865,"valorSTecSenai":10959,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"REMOTO"
+},
+{"linkFicha":null,
+    "tagProduto":"Implantação de processos de gestão da inovação","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - REMOTO","titulo":"Sebraetec Senai - Implantação de processos de gestão da inovação","codigoRae":4703,"codigoRm":40865,"valorSTecSenai":10959,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"REMOTO"
+},
+{"linkFicha":null,
+    "tagProduto":"Planejamento e preparação para comercialização em marketplace","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - REMOTO","titulo":"Sebraetec Senai - Planejamento e preparação para comercialização em marketplace","codigoRae":4706,"codigoRm":40865,"valorSTecSenai":10959,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"REMOTO"
+},
+{"linkFicha":null,
+    "tagProduto":"Experiencia do usuário em ambientes digitais","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - REMOTO","titulo":"Sebraetec Senai - Experiencia do usuário em ambientes digitais","codigoRae":4710,"codigoRm":40865,"valorSTecSenai":10959,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"REMOTO"
+},
+{"linkFicha":null,
+    "tagProduto":"Branding","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 100H - REMOTO","titulo":"Sebraetec Senai - Branding","codigoRae":4685,"codigoRm":40867,"valorSTecSenai":17365,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":100,"modalidade":"REMOTO"
+},
+{"linkFicha":null,
+    "tagProduto":"Desenvolvimento de aplicativos","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 140H - REMOTO","titulo":"Sebraetec Senai - Desenvolvimento de aplicativos","codigoRae":4689,"codigoRm":40869,"valorSTecSenai":24311,"publico":"ME\/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":140,"modalidade":"REMOTO"}]
