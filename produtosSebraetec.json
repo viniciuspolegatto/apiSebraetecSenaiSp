@@ -8,7 +8,7 @@
       "codigoRm": 42567,
       "valorSTecSenai": 770.00,
       "publico": "ME/EPP",
-      "setorAtendido": "Ind./Com./Serv."
+      "setorAtendido": "Ind./Com./Serv.",
       "cargaHoraria": 4,
       "modalidade": "PRESENCIAL"
     },
@@ -21,7 +21,7 @@
       "codigoRm": 42567,
       "valorSTecSenai": 4950.00,
       "publico": "ME/EPP",
-      "setorAtendido": "Ind./Com./Serv."        
+      "setorAtendido": "Ind./Com./Serv.",
       "cargaHoraria": 30,
       "modalidade": "PRESENCIAL"
     },
@@ -34,7 +34,7 @@
       "codigoRm": 42568,
       "valorSTecSenai": 4950.00,
       "publico": "ME",
-      "setorAtendido": "Ind./Com./Serv."        
+      "setorAtendido": "Ind./Com./Serv.",        
       "cargaHoraria": 40,
       "modalidade": "PRESENCIAL"
     },
@@ -47,7 +47,7 @@
       "codigoRm": 40864,
       "valorSTecSenai": 4950.00,
       "publico": "ME/EPP",
-      "setorAtendido": "Ind./Serv."
+      "setorAtendido": "Ind./Serv.",
       "cargaHoraria": 40,
       "modalidade": "PRESENCIAL"
     },
@@ -60,7 +60,7 @@
       "codigoRm": 40864,
       "valorSTecSenai": 4950.00,
       "publico": "ME",
-      "setorAtendido": "Ind."
+      "setorAtendido": "Ind.",
       "cargaHoraria": 40,
       "modalidade": "PRESENCIAL"
     },
@@ -73,7 +73,7 @@
       "codigoRm": 40864,
       "valorSTecSenai": 4950.00,
       "publico": "ME/EPP",
-      "setorAtendido": "Ind./Com./Serv."
+      "setorAtendido": "Ind./Com./Serv.",
       "cargaHoraria": 40,
       "modalidade": "PRESENCIAL"
     },
@@ -86,7 +86,7 @@
       "codigoRm": 40864,
       "valorSTecSenai": 9900.00,
       "pubilico": "ME/EPP",
-      "setorAtendido": "Ind./Serv."
+      "setorAtendido": "Ind./Serv.",
       "cargaHoraria": 60,
       "modalidade": "PRESENCIAL"
     },
@@ -99,7 +99,7 @@
       "codigoRm": 40864,
       "valorSTecSenai": 9900.00,
       "publico": "EPP",
-      "setorAtendido": "Ind./Com./Serv."
+      "setorAtendido": "Ind./Com./Serv.",
       "cargaHoraria": 60,
       "modalidade": "PRESENCIAL"
     },
@@ -112,7 +112,7 @@
       "codigoRm": 40865,
       "valorSTecSenai": 9900.00,
       "publico": "ME",
-      "setorAtendido": "Ind./"
+      "setorAtendido": "Ind./",
       "cargaHoraria": 60,
       "modalidade": "PRESENCIAL"
     },
@@ -125,7 +125,7 @@
       "codigoRm": 40865,
       "valorSTecSenai": 9900.00 ,
       "publico": "EPP",
-      "setorAtendido": "Ind./Serv."
+      "setorAtendido": "Ind./Serv.",
       "cargaHoraria": 60,
       "modalidade": "PRESENCIAL"
     },
@@ -138,7 +138,7 @@
       "codigoRm": 40865,
       "valorSTecSenai": 0 ,
       "publico": "ME",
-      "setorAtendido": "Ind./Com./Serv."
+      "setorAtendido": "Ind./Com./Serv.",
       "cargaHoraria": 60,
       "modalidade": "PRESENCIAL"
     },
@@ -151,7 +151,7 @@
       "codigoRm": 40865,
       "valorSTecSenai": 9900 ,
       "publico": "ME",
-      "setorAtendido": "Ind."
+      "setorAtendido": "Ind.",
       "cargaHoraria": 60,
       "modalidade": "PRESENCIAL"
     },
@@ -164,7 +164,7 @@
       "codigoRm": 40865,
       "valorSTecSenai": 9900 ,
       "publico": "ME",
-      "setorAtendido": "Ind."
+      "setorAtendido": "Ind.",
       "cargaHoraria": 60,
       "modalidade": "PRESENCIAL"
     },
@@ -177,7 +177,7 @@
       "codigoRm": 40865,
       "valorSTecSenai": 9900 ,
       "publico": "ME",
-      "setorAtendido": "Ind./Com./Serv."
+      "setorAtendido": "Ind./Com./Serv.",
       "cargaHoraria": 60,
       "modalidade": "PRESENCIAL"
     },
@@ -190,7 +190,7 @@
       "codigoRm": 40865,
       "valorSTecSenai": 9900 ,
       "publico": "ME/EPP",
-      "setorAtendido": "Ind./Com./Serv."
+      "setorAtendido": "Ind./Com./Serv.",
       "cargaHoraria": 60,
       "modalidade": "PRESENCIAL"
     },
@@ -203,7 +203,7 @@
       "codigoRm": 40865,
       "valorSTecSenai": 9900 ,
       "publico": "ME",
-      "setorAtendido": "Ind./Serv."
+      "setorAtendido": "Ind./Serv.",
       "cargaHoraria": 60,
       "modalidade": "PRESENCIAL"
     },
@@ -216,7 +216,7 @@
       "codigoRm": 40865,
       "valorSTecSenai": 9900 ,
       "publico": "ME",
-      "setorAtendido": "Ind./Serv."
+      "setorAtendido": "Ind./Serv.",
       "cargaHoraria": 60,
       "modalidade": "PRESENCIAL"
     },
@@ -229,7 +229,7 @@
       "codigoRm": 40869,
       "valorSTecSenai": 770.00,
       "publico": "ME/EPP",
-      "setorAtendido": "Ind."
+      "setorAtendido": "Ind.",
       "cargaHoraria": 4,
       "modalidade": "PRESENCIAL"
     }
