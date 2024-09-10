@@ -1,0 +1,27 @@
+[
+{
+    "linkFicha":"https://datasebrae.com.br/wp-content/uploads/2020/09/Framework-OKR-para-Otimizac%CC%A7a%CC%83o-de-Processos-MMP14065-1.pdf",
+    "tagProduto":"Framework OKR para otimização de processos",
+    "familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 4H - PRESENCIAL",
+    "titulo":"Sebraetec Senai - Framework OKR para otimização de processos",
+    "codigoRae":4727,
+    "codigoRm":42567,
+    "valorSTecSenai":759,
+    "publico":"ME/EPP",
+    "setorAtendido":"Ind./ Com./ Serv.",
+    "cargaHoraria":4,
+    "modalidade":"PRESENCIAL"
+},
+{"linkFicha":"https://datasebrae.com.br/wp-content/uploads/2021/03/Implanta%C3%A7%C3%A3o-de-Loja-Virtual-TD46002-8.pdf",
+    "tagProduto":"Implantação de loja virtual","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 40H - REMOTO","titulo":"Sebraetec Senai - Implantação de loja virtual",
+    "codigoRae":4700,"codigoRm":"40864-","valorSTecSenai":6946,"publico":"ME","setorAtendido":"Ind./ Com./","cargaHoraria":40,"modalidade":"REMOTO"
+},
+{"linkFicha":"https://datasebrae.com.br/wp-content/uploads/2021/03/Implanta%C3%A7%C3%A3o-de-Loja-Virtual-TD46002-8.pdf",
+    "tagProduto":"Implantação de loja virtual","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - REMOTO","titulo":"Sebraetec Senai - Implantação de loja virtual",
+    "codigoRae":4701,"codigoRm":"40865-","valorSTecSenai":10959,"publico":"EPP","setorAtendido":"Ind./ Com./ Serv.","cargaHoraria":60,"modalidade":"REMOTO"
+},
+{"linkFicha":"https://datasebrae.com.br/wp-content/uploads/2020/08/Implantac%CC%A7a%CC%83o-de-processos-de-Gesta%CC%83o-da-Inovac%CC%A7a%CC%83o-GI42001-6.pdf",
+    "tagProduto":"Implantação de processos de gestão da inovação","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 40H - REMOTO","titulo":"Sebraetec Senai - Implantação de processos de gestão da inovação",
+    "codigoRae":4702,"codigoRm":"40864-","valorSTecSenai":6946,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":40,"modalidade":"REMOTO"
+}
+]
