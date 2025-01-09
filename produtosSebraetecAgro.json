@@ -6,7 +6,7 @@
     "titulo":"Sebraetec Agro - Rastreabilidade de vegetais frescos- Instrução Normativa conjunta 02/2018 (MAPA)",
     "codigoRae":2424,
     "codigoRm":40860,
-    "valorSTecSenai":570.43,
+    "valorSTecAgro":570.43,
     "publico":"PRODUTOR RURAL",
     "setorAtendido":"Agronegócios",
     "cargaHoraria":3,
@@ -16,7 +16,7 @@
     "tagProduto":"Boas Práticas Agrícolas", "familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 16H - Grupo: Lote 3 - PRESENCIAL",
     "titulo":"Sebraetec Agro - Boas Práticas Agrícolas",
     "codigoRae":2422,"codigoRm":40861,
-    "valorSTecSenai":3042.27,
+    "valorSTecAgro":3042.27,
     "publico":"PRODUTOR RURAL","setorAtendido":"Agronegócios",
     "cargaHoraria":16,"modalidade":"PRESENCIAL"
 },
@@ -24,7 +24,7 @@
     "tagProduto":"Boas Práticas na Pecuária  de Leite e/ou Corte", "familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 16H - Grupo: Lote 3 - PRESENCIAL",
     "titulo":"Sebraetec Agro - Boas Práticas na Pecuária  de Leite e/ou Corte",
     "codigoRae":2433,"codigoRm":40861,
-    "valorSTecSenai":3042.27,
+    "valorSTecAgro":3042.27,
     "publico":"PRODUTOR RURAL","setorAtendido":"Agronegócios",
     "cargaHoraria":16,"modalidade":"PRESENCIAL"
 },
@@ -32,7 +32,7 @@
     "tagProduto":"Adequação de Agroindústrias aos serviços de inspeção de produtos de origem animal", "familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 16H - Grupo: Lote 3 - PRESENCIAL",
     "titulo":"Sebraetec Agro - Adequação de Agroindústrias aos serviços de inspeção de produtos de origem animal",
     "codigoRae":2421,"codigoRm":40861,
-    "valorSTecSenai":3042.27,
+    "valorSTecAgro":3042.27,
     "publico":"PRODUTOR RURAL","setorAtendido":"Agronegócios",
     "cargaHoraria":16,"modalidade":"PRESENCIAL"
 },
@@ -40,7 +40,7 @@
     "tagProduto":"Adequação à Regulamentação da produção orgânica no Brasil", "familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 20H - Grupo: Lote 3 - PRESENCIAL",
     "titulo":"Sebraetec Agro - Adequação à Regulamentação da produção orgânica no Brasil",
     "codigoRae":2694,"codigoRm":40862,
-    "valorSTecSenai":3802.84,
+    "valorSTecAgro":3802.84,
     "publico":"PRODUTOR RURAL","setorAtendido":"Agronegócios",
     "cargaHoraria":20,"modalidade":"PRESENCIAL"
 },
@@ -48,7 +48,7 @@
     "tagProduto":"Manejo para aumento da produtividade na produção de mel", "familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 20H - Grupo: Lote 3 - PRESENCIAL",
     "titulo":"Sebraetec Agro - Manejo para aumento da produtividade na produção de mel",
     "codigoRae":2695,"codigoRm":40862,
-    "valorSTecSenai":3802.84,
+    "valorSTecAgro":3802.84,
     "publico":"PRODUTOR RURAL","setorAtendido":"Agronegócios",
     "cargaHoraria":20,"modalidade":"PRESENCIAL"
 },
@@ -56,7 +56,7 @@
     "tagProduto":"Melhoria da qualidade do leite", "familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 20H - Grupo: Lote 3 - PRESENCIAL",
     "titulo":"Sebraetec Agro - Melhoria da qualidade do leite",
     "codigoRae":2696,"codigoRm":40862,
-    "valorSTecSenai":3802.84,
+    "valorSTecAgro":3802.84,
     "publico":"PRODUTOR RURAL","setorAtendido":"Agronegócios",
     "cargaHoraria":20,"modalidade":"PRESENCIAL"
 },
@@ -64,7 +64,7 @@
     "tagProduto":"Qualidade do café- Critérios SCAA- Colheita e pós colheita", "familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 20H - Grupo: Lote 3 - PRESENCIAL",
     "titulo":"Sebraetec Agro - Qualidade do café- Critérios SCAA- Colheita e pós colheita",
     "codigoRae":2697,"codigoRm":40862,
-    "valorSTecSenai":3802.84,
+    "valorSTecAgro":3802.84,
     "publico":"PRODUTOR RURAL","setorAtendido":"Agronegócios",
     "cargaHoraria":20,"modalidade":"PRESENCIAL"
 }
