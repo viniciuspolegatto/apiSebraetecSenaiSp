@@ -16,8 +16,16 @@
     "codigoRae":4686,"codigoRm":"40864-","valorSTecSenai":6700,"publico":"ME","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":40,"modalidade":"REMOTO"
 },
 {"linkFicha":"https://datasebrae.com.br/wp-content/uploads/2020/04/Caderno-de-Tend%C3%AAncias-DS24003-3.pdf",
+    "tagProduto":"Gestão de Negócios baseados em análise e inteligência de dados","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 24H - REMOTO","titulo":"Sebraetec Senai - Gestão de Negócios baseados em análise e inteligência de dados",
+    "codigoRae":7494,"codigoRm":"40863-","valorSTecSenai":3800,"publico":"ME/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":24,"modalidade":"REMOTO"
+},
+{"linkFicha":"https://datasebrae.com.br/wp-content/uploads/2020/04/Caderno-de-Tend%C3%AAncias-DS24003-3.pdf",
+    "tagProduto":"Inventário de Emissões e Remoções de Gases de Efeito Estufa - GEE","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - REMOTO","titulo":"Sebraetec Senai - Inventário de Emissões e Remoções de Gases de Efeito Estufa - GEE",
+    "codigoRae":7497,"codigoRm":"40865-","valorSTecSenai":10000,"publico":"ME/EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"REMOTO"
+},
+{"linkFicha":"https://datasebrae.com.br/wp-content/uploads/2020/04/Caderno-de-Tend%C3%AAncias-DS24003-3.pdf",
     "tagProduto":"Caderno de tendências","familia":"SEBRAETEC - CONSULTORIA TECNOLÓGICA 60H - REMOTO","titulo":"Sebraetec Senai - Caderno de tendências",
-    "codigoRae":4687,"codigoRm":"40865-","valorSTecSenai":10000,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"REMOTO"
+    "codigoRae":4687,"codigoRm":"40865-","valorSTecSenai":9500,"publico":"EPP","setorAtendido":"Ind.\/ Com.\/ Serv.","cargaHoraria":60,"modalidade":"REMOTO"
 },
 {
     "linkFicha":"https://datasebrae.com.br/wp-content/uploads/2020/04/Consultoria-para-Growth-Hacking-TD46010-2.pdf",
